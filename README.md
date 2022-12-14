@@ -1,4 +1,18 @@
 # 5-router
+---------- this is part of the Vue3 Tutorial by The Net Ninja ----------
+
+## to install json server:
+```
+npm install json-server
+```
+
+## to watch the db.json file with json server:
+```
+npx json-server --watch data/db.json
+```
+
+
+
 
 ## Project setup
 ```
